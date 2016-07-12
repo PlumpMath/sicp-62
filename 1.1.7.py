@@ -19,4 +19,4 @@ print(sqrt(9))
 print(sqrt(100 + 37))
 print(sqrt(sqrt(2) + sqrt(3)))
 
-
+print(sqrt(int(input("Please input any integer : "))))
